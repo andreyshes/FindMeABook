@@ -1,7 +1,7 @@
 # FindMeBook
 
 ## Description
-An application that 
+ An application where a  user can create an account, search for books, and save them to a list. On a separately rendered page, the user can see their saved books and remove books from the list.
 
 ## User Story
 AS AN avid reader
